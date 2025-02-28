@@ -1,0 +1,7 @@
+BMW X5|SUV
+Toyota Corolla|Sedan
+Ford F-150|Pickup
+Honda Civic|Hatchback
+Volkswogen|Sedan
+1995|sedan
+Renault|Sedam
